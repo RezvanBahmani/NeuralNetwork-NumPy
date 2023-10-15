@@ -1,2 +1,1 @@
-# NeuralNetwork-numpy
-Artificial Intelligence-CA5-part1
+Implementing Neural Network Feed Forward using only NumPy library.
