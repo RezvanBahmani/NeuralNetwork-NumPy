@@ -1,2 +1,1 @@
-Implementing Neural Network Feed Forward using only NumPy library. 
-Classifying Fashion-MNIST dataset
+Implementing Feed Forward Neural Network using only NumPy library, and Classifying Fashion-MNIST dataset
